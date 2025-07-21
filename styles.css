@@ -82,7 +82,7 @@ body {
   cursor: pointer;
 }
 
-@media only screen and (max-device-width: 375) {
+@media only screen and (max-device-width: 480px){
   .profile-container {
     width: 20rem;
     margin: 20px;
